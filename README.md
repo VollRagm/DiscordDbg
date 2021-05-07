@@ -7,7 +7,7 @@ Clone the repository and run a nuget restore on the C# project and fill in your 
 Make sure you compile both projects in the x86 configuration.  
 Place the dbgviewhook.dll into the same directory as the DbgviewDiscord.exe, run DbgView, run DbgviewDiscord.exe.  
 
-The hook is placed after DbgView's filters, so you can apply the filters in DbgView.
+The hook is placed after DbgView's filters, so you can apply the filters in DbgView.  
 https://www.unknowncheats.me/forum/pc-software/452129-discorddbg-route-dbgview-output-discord-bot.html
 
 ![](https://i.imgur.com/86HCNQ2.png "Demo")
