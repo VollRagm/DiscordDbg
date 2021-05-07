@@ -8,3 +8,5 @@ Make sure you compile both projects in the x86 configuration.
 Place the dbgviewhook.dll into the same directory as the DbgviewDiscord.exe, run DbgView, run DbgviewDiscord.exe.  
 
 The hook is placed after DbgView's filters, so you can apply the filters in DbgView.
+
+![](https://i.imgur.com/86HCNQ2.png "Demo")
